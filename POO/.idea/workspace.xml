@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="118bff65-0017-484a-ab52-a5a70c7dd1f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/App/App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/out/production/App/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/App/out/production/App/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/out/production/App/model/ContaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/App/out/production/App/model/ContaBancaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/model/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/model/ContaBancaria.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2D5LsunzB2pr6tEloqhReN87B8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Cursos/Java/SchoolBit/POO"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="118bff65-0017-484a-ab52-a5a70c7dd1f8" name="Changes" comment="" />
+      <created>1659984209066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659984209066</updated>
+    </task>
+    <servers />
+  </component>
+</project>
